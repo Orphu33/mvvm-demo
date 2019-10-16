@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Data Binding Base App</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_owner">OwnerActivity</string>
+
+    <!-- TRANSITIONS -->
+
+    <string name="transition_profile_pic">profile_pic</string>
+    <string name="date_format_short">%1$tb. %1$tY</string>
+    <string name="date_format_abbreviated">%1$tb. %1$td, %1$tY</string>
+    <string name="title_activity_github_repository">GithubRepositoryActivity</string>
+    <string name="transition_repo_name">repo name</string>
+
+    <string-array name="sort_list">
+        <item>Sort by…</item>
+        <item>Watchers</item>
+        <item>Forks</item>
+        <item>Issues</item>
+    </string-array>
+</resources>
